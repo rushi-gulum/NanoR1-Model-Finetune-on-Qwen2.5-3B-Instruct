@@ -1,0 +1,12 @@
+unsloth
+vllm
+trl
+transformers
+datasets
+huggingface_hub
+sentence-transformers
+torch
+accelerate
+scipy
+numpy
+pandas
